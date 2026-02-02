@@ -2,5 +2,5 @@ pip>=25.1
 setuptools>=68.0
 wheel>=0.40
 aiogram==3.1.1
-pydantic==2.8.2          # yoki eng so'nggi 2.x versiya
-pydantic-core==2.20.1     # yoki 2.14.0 dan yuqori har qanday
+pydantic==2.3.0          # aiogram 3.1.1 uchun rasmiy mos (2.4 dan oldingi oxirgi stabil)
+pydantic-core==2.6.3     # 2.3.0 bilan keladigan versiya (wheel bor)
